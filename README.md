@@ -1,5 +1,2 @@
-#Papers
-
-Some pre-print versions of our publications
-
-
+# publications
+some pre-prints of my papers
